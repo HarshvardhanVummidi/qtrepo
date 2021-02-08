@@ -9,3 +9,7 @@ this is a feature for 1.0
 
  #basefeature
  adding base feature to master branch to understand the master scenario
+ adding feature to rel-1.0 after adding merge
+
+
+#adding re base feature to the rel-1.1
